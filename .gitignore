@@ -2,3 +2,4 @@
 *.pyc
 mysite/__pycache__/urls.cpython-36.pyc
 *.pyc
+db.sqlite3
