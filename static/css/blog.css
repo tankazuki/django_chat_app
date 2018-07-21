@@ -7,6 +7,10 @@ body {
     padding-left: 15px;
 }
 
+.post_date{
+  float: right;
+  font-size: 18px;
+}
 .page-header {
     background-color: #ff9400;
     margin-top: 0;
